@@ -1,9 +1,6 @@
 # Experiment :- 3  
 
 ---
-## (Advanced Data Retrieval using EMPLOYEE Table)
-
----
 
 ## 01. List all employees and jobs in Department 30 in descending order by salary
 
